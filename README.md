@@ -10,3 +10,7 @@
 ## Sprint 3
 - Optimisation des requêtes base de données
 - Réduction du temps de chargement de 40%
+
+## Sprint 4
+- Intégration de l'API des notifications
+- Tests unitaires ajoutés
