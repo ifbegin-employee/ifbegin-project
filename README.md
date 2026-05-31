@@ -14,3 +14,7 @@
 ## Sprint 4
 - Intégration de l'API des notifications
 - Tests unitaires ajoutés
+
+## Sprint 5
+- Correction des bugs signalés en code review
+- Refactoring du module utilisateur
