@@ -18,3 +18,7 @@
 ## Sprint 5
 - Correction des bugs signalés en code review
 - Refactoring du module utilisateur
+
+## Sprint 6
+- Mise à jour de la documentation technique
+- Ajout des commentaires dans le code
